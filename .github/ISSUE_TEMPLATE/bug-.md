@@ -1,7 +1,7 @@
 ---
 name: Bug!
 about: Let us know about bugs
-title: 'Bug: ''...''  |  Pack: Creative'
+title: 'Bug: ''...'''
 labels: unconfirmed
 assignees: ''
 
