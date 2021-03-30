@@ -10,22 +10,14 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Place '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**General Info**
+ - Which pack
+ - Mod (suspected) to be causing issue
+ - Server or client side
+ - Link to stacktrace (if applicable)
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Version Info (required or will be marked invalid)**
- - Which pack (w/version)
- - Mod (suspected) to be causing issue (w/version)
+If applicable, add screenshots or videos to help explain the bug.
 
 **Additional context**
 Add any other context about the problem here.
